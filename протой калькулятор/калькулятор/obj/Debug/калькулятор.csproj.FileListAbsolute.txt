@@ -1,0 +1,23 @@
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\NoNam\source\repos\калькулятор withc\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Sqripi Too\Desktop\C#\калькулятор withc\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\SqripiToo\Desktop\ \CSharp\калькулятор withc\калькулятор\obj\Debug\калькулятор.pdb
+C:\Users\SqripiToo\Desktop\ \CSharp\протой калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\SqripiToo\Desktop\ \CSharp\протой калькулятор\калькулятор\obj\Debug\калькулятор.pdb
